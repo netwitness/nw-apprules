@@ -1,0 +1,1 @@
+name=nw110140 rule="medium=1 && action='get' && filename contains 'jspy' && ip.src = 10.0.0.0/8,172.16.0.0/12,192.168.0.0/16" alert=alert.id order=5 type=application

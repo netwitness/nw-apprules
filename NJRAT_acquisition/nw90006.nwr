@@ -1,0 +1,1 @@
+name="nw90006" rule="alias.host ends 'ge.tt' && ip.src = 10.0.0.0/8,172.16.0.0/12,192.168.0.0/16" alert=alert.id order=45 type=application

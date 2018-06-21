@@ -1,0 +1,1 @@
+name=nw110080 rule="(filename contains 'gotomypc','pcnow','bomgar','logmein','ntrsupport','anyplace','famatech','4remotesupport','gidsoftware','uvnc','netsupportsoftware','vector-networks','netopia','01com','realvnc','radmin','hueyins','remotedesktopcontrol','ultravnc','tightvnc','cotvnc') && (filename ends 'exe','dmg','zip','tar')" alert=alert.id order=1 type=application
